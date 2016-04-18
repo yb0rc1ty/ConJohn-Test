@@ -1,0 +1,6 @@
+{
+  "appname": "ConJohn Test",
+  "ocscope": "FullAccess $hashKey ProductAdmin BuyerAdmin DevCenterImpersonate BuyerReader",
+  "clientid": "a9df3ee8-22e4-4652-969d-ddac8b763119",
+  "buyerid": null
+}
